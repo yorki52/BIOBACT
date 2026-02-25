@@ -62,3 +62,6 @@ If you use BIOBACT in your research, please cite the following tools:
 *   **fastp:** Chen S. et al. (2018). "fastp: an ultra-fast all-in-one FASTQ pre-processor." Bioinformatics.
 *   **MultiQC:** Ewels P. et al. (2016). "MultiQC: summarize analysis results for multiple tools and samples in a single report." Bioinformatics.
 
+PyOrthoANI: Larralde M, Zeller G, Carroll LM. (2025). "PyOrthoANI, PyFastANI, and Pyskani: a suite of Python libraries for computation of average nucleotide identity." NAR Genomics and Bioinformatics.
+OrthoANI (Original Algorithm): Lee I, et al. (2016). "A proposed system for the taxonomic identification of prokaryotes using whole genome sequences." Int J Syst Evol Microbiol.
+
