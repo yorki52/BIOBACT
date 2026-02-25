@@ -26,3 +26,12 @@ git clone https://github.com/yorki52/BIOBACT
 cd BIOBACT
 mamba env create -f biobact_env.yml
 conda activate biobact
+
+### **📦 Portable Version (No-Install Offline Archive)**
+If you don't have internet access or want to skip the `mamba` setup, you can download a pre-packaged portable version of the BIOBACT environment.
+
+1. **Download the archive:** [Download BIOBACT Portable (tar.gz)]((https://disk.yandex.ru/d/OLsrTdnmfVJgmA))
+2. **Extract to a folder:**
+   ```bash
+   mkdir biobact_env
+   tar -xzf biobact_portable.tar.gz -C biobact_env
