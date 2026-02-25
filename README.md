@@ -68,3 +68,4 @@ Shovill: Seemann T, "Fast bacterial assembly".
 Prokka: Seemann T. (2014) "Prokka: rapid prokaryotic genome annotation", Bioinformatics.
 Abricate: Seemann T, "Mass screening of contigs for AMR and virulence genes".
 fastp: Chen S, et al. (2018). "fastp: an ultra-fast all-in-one FASTQ pre-processor." Bioinformatics.
+MLST: Seemann T, "mlst: Scan contig files against PubMLST schemes".
