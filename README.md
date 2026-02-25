@@ -39,3 +39,26 @@ If you don't have internet access or want to skip the `mamba` setup, you can dow
 3. source biobact_env/bin/activate
 
 # Ready to use! Test with: spades.py --version
+
+
+## 📚 Citations & Tool References
+If you use BIOBACT in your research, please cite the following tools:
+
+### 🧬 Alignment & Mapping
+*   **BWA / BWA-MEM2:** Li H. (2013) & Vasimuddin Md. et al. (2019). "Efficient Architecture-Aware Acceleration of BWA-MEM2." IEEE IPDPS.
+*   **Samtools / BCFtools:** Danecek P. et al. (2021). "Twelve years of SAMtools and BCFtools." GigaScience.
+*   **Bedtools:** Quinlan AR & Hall IM. (2010). "BEDTools: a flexible suite of utilities for comparing genomic features." Bioinformatics.
+
+### 🔍 Variant Calling
+*   **GATK4:** Van der Auwera GA & O'Connor BD. (2020). "Genomics in the Cloud." O'Reilly Media.
+*   **FreeBayes:** Garrison E & Marth G. (2012). "Haplotype-based variant detection from short-read sequencing." arXiv:1207.3907.
+
+### 🧱 Assembly & Evaluation
+*   **SPAdes:** Prjibelski A. et al. (2020). "Using SPAdes De Novo Assembler." Current Protocols in Bioinformatics.
+*   **QUAST:** Gurevich A. et al. (2013). "QUAST: quality assessment tool for genome assemblies." Bioinformatics.
+
+### 📊 Quality Control
+*   **FastQC:** Andrews S. (2010). "FastQC: A Quality Control Tool for High Throughput Sequence Data."
+*   **fastp:** Chen S. et al. (2018). "fastp: an ultra-fast all-in-one FASTQ pre-processor." Bioinformatics.
+*   **MultiQC:** Ewels P. et al. (2016). "MultiQC: summarize analysis results for multiple tools and samples in a single report." Bioinformatics.
+
