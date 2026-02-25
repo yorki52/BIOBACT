@@ -64,4 +64,6 @@ If you use BIOBACT in your research, please cite the following tools:
 
 PyOrthoANI: Larralde M, Zeller G, Carroll LM. (2025). "PyOrthoANI, PyFastANI, and Pyskani: a suite of Python libraries for computation of average nucleotide identity." NAR Genomics and Bioinformatics.
 OrthoANI (Original Algorithm): Lee I, et al. (2016). "A proposed system for the taxonomic identification of prokaryotes using whole genome sequences." Int J Syst Evol Microbiol.
-
+Shovill: Seemann T, "Fast bacterial assembly".
+Prokka: Seemann T. (2014) "Prokka: rapid prokaryotic genome annotation", Bioinformatics.
+Abricate: Seemann T, "Mass screening of contigs for AMR and virulence genes".
