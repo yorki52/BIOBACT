@@ -22,5 +22,7 @@ BIOBACT is a pre-configured, high-performance environment designed specifically 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com
+git clone https://github.com/yorki52/BIOBACT
 cd BIOBACT
+mamba env create -f biobact_env.yml
+conda activate biobact
